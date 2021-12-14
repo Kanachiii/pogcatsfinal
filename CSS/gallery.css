@@ -1,0 +1,87 @@
+
+
+body {
+    background-color: darkorange;
+}
+h1 {
+    background-color: orangered;
+    position: relative;
+}
+cat{
+    background-color: darkorange;
+}
+a{
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+    padding: 20px;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 360px;
+    
+}
+    div.gallery:hover {
+        border: 1px solid #777;
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: orange;
+    font-style: oblique
+      
+}
+
+p1{
+    background-color: orangered;
+    float: left;
+    margin: 300px;
+    font-size: 30px;
+    position: relative;
+    bottom: 600px;
+    left: 200px;
+}
+p2 {
+    background-color: orangered;
+    float: left;
+    margin: 300px;
+    font-size: 30px;
+    position: relative;
+    bottom: 1150px;
+    left: 200px;
+}
+p3 {
+    background-color: orangered;
+    float: left;
+    margin: 300px;
+    font-size: 30px;
+    position: relative;
+    bottom: 1700px;
+    left: 200px;
+}
+p4 {
+    background-color: orangered;
+    float: left;
+    margin: 300px;
+    font-size: 30px;
+    position: relative;
+    bottom: 2250px;
+    left: 200px;
+}
+home{
+    position:relative;
+}
+
+.welcome{
+    position:relative;
+    bottom: 250px;
+}
+
